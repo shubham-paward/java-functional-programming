@@ -1,0 +1,1 @@
+Comprehensive Java functional programming examples for beginners and experienced developers. Features lambda expressions, streams, reactive programming, and real-world applications in e-commerce, finance, web scraping, and system monitoring.
